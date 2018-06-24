@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Reshma",
+    "email":"mdreshmasulthana563@gmail.com",
+    "mobile":"+91-9999999988"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-2019","76%"]
+    },
+    {
+      "degree":"Intermediate/Diploma",
+      "institute":"Sri chaitanya junior college",
+      "data":["2013-2015","78%"]
+    },
+    {
+      "degree":"S.C.C",
+      "institute":"vani english medium high school",
+      "data":["2013","7.5"]
+    }
+  ]
+}
