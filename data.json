@@ -4,6 +4,9 @@
     "email":"mdreshmasulthana563@gmail.com",
     "mobile":"+91-9999999988"
   },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
   "education":[
     {
       "degree":"B-Tech",
@@ -20,5 +23,31 @@
       "institute":"vani english medium high school",
       "data":["2013","7.5"]
     }
-  ]
+  ],
+  "achievements":[
+    {
+      "name":"Awareded as <b>1<sup>st</sup>Prices</b>in <q>Self-Defence</q>"
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>prices</strong> for <q> PPT Persentetion </q>"
+    }
+  ],
+  "skills":[
+    {
+    "name":"Programming Languages",
+    "data":["C","JAVA","PYTHON","C++","PHP"]
+    },
+    {
+    "name":"DataBases",
+    "data":["mysql","oracle"]
+    },
+    {
+    "name":"WebTechnologies",
+    "data":["HTML","CSS","JAVASCRIPT"]
+    },
+    {
+    "name":"Libraries and FrameWorks",
+    "data":["jQuery","codeIgniter"]
+    }
+]
 }
